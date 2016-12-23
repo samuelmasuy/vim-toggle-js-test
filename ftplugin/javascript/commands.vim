@@ -1,1 +1,1 @@
-command! -nargs=0 GoBuild call cmd#ToggleJavascriptTestFile()
+command! -nargs=0 TestToggle call cmd#ToggleJavascriptTestFile()
