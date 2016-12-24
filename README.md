@@ -1,11 +1,5 @@
 #Vim Toggle JS Test
 
-Author: Samuel Masuy
-
-License: **MIT** see `LICENSE` for more details
-
-##Intro
-
 Toggle between test and source code for JavaScript.
 
 Test files and source code should live in the same directory.

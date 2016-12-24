@@ -1,4 +1,4 @@
-" commentary.vim - Toggle between test and source code for JavaScript.
+" vim-toggle-js-test.vim - Toggle between test and source code for JavaScript.
 " Maintainer:   Samuel Masuy
 " Version:      0.1
 
