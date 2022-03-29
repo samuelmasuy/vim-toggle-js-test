@@ -1,4 +1,4 @@
-#Vim Toggle JS Test
+# Vim Toggle JS Test
 
 Toggle between test and source code for JavaScript.
 
@@ -9,25 +9,27 @@ Test files should be named: *{source}.test.js*
 For example:
 
     app/foo.js
-	app/foo.test.js
+    app/foo.test.js
 
-##Install
+## Install
 
 * https://github.com/tpope/vim-pathogen
 
-    git clone https://github.com/samuelmasuy/vim-toggle-js-test.git ~/.vim/bundle/vim-toggle-js-test
+    `git clone https://github.com/samuelmasuy/vim-toggle-js-test.git ~/.vim/bundle/vim-toggle-js-test`
 
 * https://github.com/junegunn/vim-plug
 
-    Plug 'samuelmasuy/vim-toggle-js-test'
+    `Plug 'samuelmasuy/vim-toggle-js-test'`
 
-##Commands
+## Commands
 
-`:TestToggle`
+```vi
+:TestToggle
+```
 
 Toggle between test and source JavaScript files.
 
-##Mappings
+## Mappings
 
 vim-toggle-js-test has a `<Plug>` key which can be used to create a custom mapping
 
